@@ -35,6 +35,8 @@ def print_banner():
    ██║   ╚██████╔╝██║  ██║██║ ╚████║███████╗   ██║   
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   
 {white}                    Version: {VERSION}
+{white} +---------------------{cyan}({red}ByteBreach{cyan}){white}----------------------+{reset}
+{white} +--------------{cyan}({red}Improved by Ayad Seghiri{cyan}){white}--------------------+{reset}
 {reset}"""
     print(banner)
 
