@@ -23,7 +23,7 @@ https://dnsleaktest.com/
 To install TorNet, use pip:
 
 ```bash
-pip install python-tornet==2.2.0
+pip install python-tornet==2.2.1
 ```
 
 To install TorNet, use yay (Arch Linux):
