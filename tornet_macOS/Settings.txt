@@ -1,0 +1,1 @@
+InternetConnectionCheckURL = "https://www.google.com"
